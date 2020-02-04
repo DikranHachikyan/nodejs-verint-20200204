@@ -1,0 +1,14 @@
+{
+    "width": "100px",
+    "order": 1,
+    "file": "pic1.jpg",
+    "label": "City Center",
+    "sizes": [
+      "100x200",
+      "300x400"
+    ],
+    "author": {
+      "firstName": "John",
+      "lastName": "Smith"
+    }
+  }
